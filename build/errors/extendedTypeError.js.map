@@ -1,0 +1,1 @@
+{"version":3,"file":"extendedTypeError.js","sourceRoot":"","sources":["../../src/errors/extendedTypeError.ts"],"names":[],"mappings":";;;AAAA,MAAa,gBAAiB,SAAQ,SAAS;IAC7C,YAAY,MAAc,EAAE,GAAG,OAAiB;QAC9C,KAAK,CAAC,IAAI,MAAM,MAAM,OAAO,CAAC,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,CAAC;QAC3C,IAAI,CAAC,IAAI,GAAG,kBAAkB,CAAC;IACjC,CAAC;CACF;AALD,4CAKC"}

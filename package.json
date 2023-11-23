@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "moment": "^2.29.4",
+    "mongoose": "^8.0.1"
+  },
+  "name": "skillsyncc-utils",
+  "version": "1.0.0",
+  "description": "Utilities method for SkillSyncc Backend",
+  "main": "build/index.js",
+  "devDependencies": {
+    "@types/node": "^20.9.2",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkillSync-Llc/skillsync-utils.git"
+  },
+  "author": "SkillSyncc LLC.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SkillSync-Llc/skillsync-utils/issues"
+  },
+  "homepage": "https://github.com/SkillSync-Llc/skillsync-utils#readme"
+}
